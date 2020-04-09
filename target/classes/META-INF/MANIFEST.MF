@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: secondpro
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sachin
+Implementation-Vendor-Id: com.secondpro
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/secondpro
+Created-By: Maven Integration for Eclipse
+
